@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:stripped_crimson_stem",
+    "minecraft:stripped_crimson_hyphae",
+    "minecraft:crimson_hyphae"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:crimson_stem"
+  },
+  "group": "cutting_logs"
+}

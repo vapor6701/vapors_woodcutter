@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:warped_fence",
+		"minecraft:warped_fence_gate",
+    "minecraft:warped_stairs",
+    "minecraft:warped_trapdoor",
+    "minecraft:warped_button",
+    "minecraft:warped_door",
+    "minecraft:warped_pressure_plate",
+    "minecraft:warped_sign",
+    "minecraft:warped_hanging_sign"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:warped_planks"
+  },
+  "group": "cutting_blocks"
+}

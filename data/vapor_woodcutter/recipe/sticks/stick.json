@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:armor_stand",
+    "minecraft:item_frame",
+    "minecraft:painting"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:stick"
+  },
+  "group": "cutting"
+}

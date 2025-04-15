@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:stick",
+  "result": {
+    "count": 1,
+    "id": "minecraft:painting"
+  },
+  "group": "cutting"
+}
