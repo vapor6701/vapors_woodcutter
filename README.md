@@ -1,6 +1,6 @@
 # Vapor's Woodcutter
 
-_Published for version 1.21.4-1.21.5_
+_Published for version 1.21.4-1.21.6_
 
 ## Adds wood recipes to the stonecutter which allows the player an easier time crafting wood
 
@@ -33,6 +33,7 @@ _Published for version 1.21.4-1.21.5_
 	- Armor Stands
 	- Item Frames
 	- Paintings
+	- Ladders
 
 ## Recycling
 
@@ -41,7 +42,7 @@ _Published for version 1.21.4-1.21.5_
 - Chest Boats (Chest Raft) ->
 	- Boats
 
-- Armor stands, Item Frames, Paintings ->
+- Armor stands, Item Frames, Paintings, Ladders ->
 	- Sticks
 
 #### In a crafting table, put two slabs next to each other to craft back into planks
