@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 71,
     "supported_formats": {
-      "max_inclusive": 80,
+      "max_inclusive": 81,
       "min_inclusive": 61
     },
     "description": "Vapor's Woodcutter datapack. Use the stonecutter to craft and recycle wood"

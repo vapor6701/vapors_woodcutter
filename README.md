@@ -1,6 +1,6 @@
 # Vapor's Woodcutter
 
-_Published for version 1.21.4-1.21.6_
+_Published for version 1.21.4-1.21.8_
 
 ## Adds wood recipes to the stonecutter which allows the player an easier time crafting wood
 
